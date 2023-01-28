@@ -1,7 +1,7 @@
 # Gigabyte-B365M-RX470
 ---
 
-OpenCore (0.8.8) EFI configs for Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 470
+OpenCore (0.8.8) EFI config for Gigabyte B365M Aorus Elite + Intel i5-9600k + AMD RX 470
 
 ## Specification
 
@@ -9,7 +9,7 @@ OpenCore (0.8.8) EFI configs for Gigabyte B365M Aorus Elite + Intel i5-9600k + A
 | :-------------- | :---------------------------------------------- |
 |   Motherboard   |    Gigabyte B365M Aorus Elite                   |
 |   CPU           |    Intel i5-9600k                               |
-|   Graphic       |    AMD Radeon RX 470 4G                         |
+|   Graphics      |    AMD Radeon RX 470 4GB                        |
 |   Memory        |    Gloway 16GB DDR4 2666MHz * 2                 |
 |   Storage       |    Western Digital M.2 WD_BLACK SN750 500GB * 2 |
 |   Audio         |    Realtek ALC892 onboard                       |
@@ -25,8 +25,8 @@ OpenCore (0.8.8) EFI configs for Gigabyte B365M Aorus Elite + Intel i5-9600k + A
 
 ## Note
 
-- USB info modified, it should be re-modified for different PC case before use it
-- Serial number info has been removed, it should be added before use it
+- USB info modified, it should be re-modified for different PC case before using
+- Serial number info has been removed, it should be added before using
 
 ## Screenshots
 
